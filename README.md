@@ -8,7 +8,7 @@
 
 - React.js – for building the user interface<br>
 - Framer Motion – for animations<br>
-- SCSS – for custom styles<br>
+- CSS – for custom styles<br>
 
 Instructions to run the project locally:
 
